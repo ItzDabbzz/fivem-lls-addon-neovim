@@ -1,4 +1,4 @@
-# CfxLua (FiveM/RedM) Lua LLS Addon LuaRC Config
+# CfxLua (FiveM/RedM) Lua LLS Addon .luarc.json Config
 
 ***Credits to [zfbx](https://github.com/zfbx) for the diagnostics.globals***
 
