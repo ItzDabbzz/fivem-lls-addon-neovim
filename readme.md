@@ -1,5 +1,7 @@
 # CfxLua (FiveM/RedM) Lua LLS Addon LuaRC Config
 
+***Credits to [zfbx](https://github.com/zfbx) for the diagnostics.globals***
+
 I was browsing the web for a Lua Language Server addon for FiveM, that would support NeoVim. I didn't come across a single one that supported it out of the gate. But i found overextended's [cfxlua-vscode](https://github.com/overextended/cfxlua-vscode/) plugin, reversed how it put the config together, and figured out how to setup Lua Language Server without their vscode plugin.
 
 ## Installation
