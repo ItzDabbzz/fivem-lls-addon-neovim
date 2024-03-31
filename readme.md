@@ -7,6 +7,7 @@ I was browsing the web for a Lua Language Server addon for FiveM, that would sup
 1. Download and unzip [fivem-lls-addon](https://github.com/overextended/fivem-lls-addon/) somewhere easy to refrence.
 2. Create a new file called `.luarc.json` in your main directory, I put mine in the same folder as `server.cfg`
 3. Add the folowing lines to your `.luarc.json`
+4) Update the `fivem-lls-addon` path's to correctly point to your unzipped folder from earlier.
 
 ```json
 {
